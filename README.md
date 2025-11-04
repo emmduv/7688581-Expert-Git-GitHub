@@ -54,7 +54,8 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* Romain Sessa, emmduv 
+. C.
+*  
 
 ## License
 
